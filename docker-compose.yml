@@ -1,6 +1,6 @@
 version: "3.9"
 services:
-  user-db:
+  case-db:
     container_name: case-db
     image: postgres:16-alpine
     environment:
